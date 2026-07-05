@@ -8,13 +8,13 @@ sample.md を参考にして，記述を追加せよ．
 
 |数式の意味|数式|
 |----|----|
-クーロンの公式 | $$ F = k\frac{q_1 q_2}{r^2}$$
-判別式|$$D=b^2-4ac$$
-$sin$の3倍角の公式|$$\sin3\theta=3\sin\theta-4\sin^2\theta$$
-$x^2$の不定積分|$$\int x^2dx=\frac{1}{3}x^2+C(Cは積分定数)$$
-$1$から$N$までの自然数の和|$$\sum_{i=1}^{N}i=\frac{N(N+1)}{2}$$
-$n$個の中から$m$を取り出す組み合わせの数|$$\binom{n}{m}=\frac{n!}{m!(n-m)!}$$
-行列式|$$\begin{vmatrix} a&b\\ c&d\\ \end{vmatrix}=ad-bc$$
+|クーロンの公式 | $$ F = k\frac{q_1 q_2}{r^2}$$|
+|判別式|$$D=b^2-4ac$$|
+|$sin$の3倍角の公式|$$\sin3\theta=3\sin\theta-4\sin^2\theta$$|
+|$x^2$の不定積分|$$\int x^2dx=\frac{1}{3}x^2+C(Cは積分定数)$$|
+|$1$から$N$までの自然数の和|$$\sum_{i=1}^{N}i=\frac{N(N+1)}{2}$$|
+|$n$個の中から$m$を取り出す組み合わせの数|$$\binom{n}{m}=\frac{n!}{m!(n-m)!}$$|
+|行列式|$$\begin{vmatrix} a&b\\ c&d\\ \end{vmatrix}=ad-bc$$|
 
 ## 複数行の数式の等号の位置を揃える
 
